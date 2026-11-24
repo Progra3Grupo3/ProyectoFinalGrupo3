@@ -23,11 +23,6 @@ header {
     margin-bottom: 20px;
 }
 
-/* Logo del hotel */
-.logo {
-    width: 100px;
-    height: auto;
-}
 
 .nombre-hotel h1 {
     font-size: 28px;
@@ -138,7 +133,7 @@ nav a:hover {
 }
 
 .tarjeta {
-    background-color: white;
+    background-color: rgb(223, 243, 201);
     border: 1px solid #dddddd;
     border-radius: 10px;
     padding: 25px;
